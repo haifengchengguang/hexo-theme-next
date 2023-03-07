@@ -635,7 +635,7 @@ livere_uid: # <your_uid>
 gitalk:
   enable: true
   github_id: haifengchengguang
-  repo: haifengHexo
+  repo: https://github.com/haifengchengguang/haifengHexo
   client_id: 50fb3b259febec215255
   client_secret: aac2ca4e8a07d1cd412be197a9245ec1a5660cfa
   admin_user: haifengchengguang # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
